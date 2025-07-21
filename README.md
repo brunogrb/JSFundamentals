@@ -9,4 +9,3 @@ In this mini project, you will review core JavaScript concepts while building a 
 # How to Use
 * Clone this repository
 * Implement your solution following the freeCodeCamp project requirements
-* Commit often and push your work to GitHub
