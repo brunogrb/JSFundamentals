@@ -1,4 +1,4 @@
-function getGrade(score) {
+export function getGrade(score) {
   if (typeof score !== 'number' ||score < 0 || score > 100) {
     return "Invalid score";
   }
