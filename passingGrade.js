@@ -1,6 +1,6 @@
 import { getGrade } from "./grade.js";
 
-function hasPassingGrade(score) {
+export function hasPassingGrade(score) {
   return getGrade(score) !== "F";
 }
 
